@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "department": "IT",
+      "salary": 75000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Product Manager",
+      "department": "Marketing",
+      "salary": 90000
+    },
+    {
+      "id": 3,
+      "name": "Sam Johnson",
+      "position": "Data Analyst",
+      "department": "Business Intelligence",
+      "salary": 65000
+    }
+  ],
+  "company": {
+    "name": "Tech Solutions Inc.",
+    "location": "San Francisco, CA",
+    "industry": "Technology"
+  }
+}
